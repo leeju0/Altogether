@@ -160,3 +160,7 @@ PYTHONPATH=src python -m pytest src/tests -q
 종합 = 이진 F1 × 0.5 + 7범주 macro-F1 × 0.5. 표본 범위가 다른 공식 기준선과의 참고 비교이며, 동일 예측에 대한 통제 실험이나 통계적 유의성 검증을 의미하지 않습니다. `results/official_submission.csv`는 해당 성적에 대응하는 제출 CSV이며 공개 장식오용형 3건 보정을 포함합니다. 현재 전체 공개 109건 적용 옵션과는 구분됩니다.
 
 Train 재평가와 공개 109건 재평가는 기준 개발에 활용한 자료의 **재확인 평가**입니다. 정답을 보고 피드백하는 Train 재판정 성능을 독립 Test 성능으로 주장하지 않습니다. 결과물은 설명 가능한 판단 절차와 사람의 검토 가능성을 제공하며, 생성된 근거 자체의 무오류를 보장하지 않습니다.
+
+
+<img width="837" height="1133" alt="image" src="https://github.com/user-attachments/assets/97bb10e8-0923-4a91-8ad6-cc0547399797" />
+
