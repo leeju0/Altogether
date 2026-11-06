@@ -1,0 +1,15 @@
+{
+  "source": "unsloth/gemma-4-31B-it-GGUF",
+  "files": [
+    {
+      "name": "gemma-4-31B-it-IQ4_NL.gguf",
+      "bytes": 17287670720,
+      "sha256": "811dccf90edd3e0a5341c601473d42642f4acc238966326395d4f4c1289b2e92"
+    },
+    {
+      "name": "mmproj-BF16.gguf",
+      "bytes": 1200726496,
+      "sha256": "7a4601b12ec680f706a7e0c7e1f78f579b1db64d485a9e352ee87d4b9daa45e4"
+    }
+  ]
+}

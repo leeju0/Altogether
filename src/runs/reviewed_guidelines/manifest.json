@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "run_id": "reviewed_guidelines",
+  "record_ids": [],
+  "models": [],
+  "pipeline_mode": "gemma_only",
+  "dataset_dir": "data/train",
+  "gemma": {
+    "label_reflection": true,
+    "reflection_mode": "train_update_v1",
+    "type_reflection": true,
+    "final_reflection": true
+  },
+  "artifact_note": "반복 실험·인간 검토 후 선정한 문서 사본. 이 폴더 자체는 학습 실행이 아님."
+}

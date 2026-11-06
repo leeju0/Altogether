@@ -1,0 +1,15 @@
+.venv/
+.env
+.env.*
+__pycache__/
+*.pyc
+.pytest_cache/
+.ipynb_checkpoints/
+
+model/weights/*
+!model/weights/README.md
+model/runtime/*
+!model/runtime/README.md
+
+src/runs/*
+!src/runs/reviewed_guidelines/
